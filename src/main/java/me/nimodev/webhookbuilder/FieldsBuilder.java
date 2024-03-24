@@ -1,3 +1,4 @@
+package me.nimodev.webhookbuilder;
 import lombok.Getter;
 
 @Getter
