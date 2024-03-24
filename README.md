@@ -1,5 +1,6 @@
-<h3 align="center">## DiscordWebhookBuilder</h3>
-# A Simple Discord Webhook builder for java that allows you to add everything such as Embeds, Fields, etc
+<h3 align="center">DiscordWebhookBuilder</h3>
+
+<h3 align="center"> A Simple Discord Webhook builder for java that allows you to add everything such as Embeds, Fields, etc </h3>
 
 
 ## 📖 How to add it to your project
@@ -7,7 +8,7 @@ You can easily add the Builder to your project by importing, here is how you can
 
 **Maven**:
 ```
-<repositories>
+	<repositories>
 		<repository>
 		    <id>jitpack.io</id>
 		    <url>https://jitpack.io</url>
@@ -15,7 +16,7 @@ You can easily add the Builder to your project by importing, here is how you can
 	</repositories>
 ```
 ```
-<dependency>
+	<dependency>
 	    <groupId>com.github.NimxDev</groupId>
 	    <artifactId>DiscordWebhookBuilder</artifactId>
 	    <version>2a4db87a07</version>
@@ -61,7 +62,7 @@ If you want to install manually the Builder you must have to add this dependenci
             <artifactId>json</artifactId>
             <version>20240303</version>
         </dependency>
-    </dependencies>
+</dependencies>
 ```
 **Gradle**:
 ```
