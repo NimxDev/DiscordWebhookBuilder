@@ -73,7 +73,7 @@ dependencies {
 }
 ```
 
-## ❓ How yo use
+## ❓ How to use
 
 You can easly send a webhook with the next code:
 
