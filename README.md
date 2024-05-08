@@ -19,7 +19,7 @@ You can easily add the Builder to your project by importing, here is how you can
 	<dependency>
 	    <groupId>com.github.NimxDev</groupId>
 	    <artifactId>DiscordWebhookBuilder</artifactId>
-	    <version>2a4db87a07</version>
+	    <version>f97af014a4</version>
 	</dependency>
 ```
 
