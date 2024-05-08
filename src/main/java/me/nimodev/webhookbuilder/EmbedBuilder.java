@@ -72,7 +72,6 @@ public class EmbedBuilder {
      */
     public EmbedBuilder setColor(Color color){
         int rgb = (color.getRed() * 256 * 256) + (color.getGreen() * 256) + (color.getBlue());
-        System.out.println(rgb);
         this.color = rgb;
         return this;
     }

@@ -121,7 +121,6 @@ public class WebhookBuilder {
         jsonObject.put("avatar_url", avatarURL);
         jsonObject.put("attachments", new JSONArray());
 
-        System.out.println(jsonObject.toString());
         try{
         CloseableHttpClient httpClient = HttpClients.createDefault();
         HttpPost httpPost = new HttpPost(url);
