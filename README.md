@@ -35,7 +35,7 @@ dependencyResolutionManagement {
 ```
 ```
 dependencies {
-	        implementation 'com.github.NimxDev:DiscordWebhookBuilder:Tag'
+	        implementation 'com.github.NimxDev:DiscordWebhookBuilder:f97af014a4'
 	}
 ```
 
